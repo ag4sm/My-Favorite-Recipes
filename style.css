@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image: url("https://image.shutterstock.com/image-photo/various-asian-meals-on-rustic-260nw-1075946798.jpg")
+    
+}
+
+header h1 {
+    text-align: center;
+    top: 50%;
+}
