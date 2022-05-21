@@ -4,11 +4,13 @@ html, body {
 }
 
 header {
-    background-image: url("https://image.shutterstock.com/image-photo/various-asian-meals-on-rustic-260nw-1075946798.jpg")
-    
+    background-image: url("https://image.shutterstock.com/image-photo/various-asian-meals-on-rustic-260nw-1075946798.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header h1 {
     text-align: center;
-    top: 50%;
+    padding-top: 30%;
+    padding-bottom: 18%;
 }
