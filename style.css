@@ -5,15 +5,17 @@ html, body {
 }
 
 header {
-    background-image: url("https://image.shutterstock.com/image-photo/various-asian-meals-on-rustic-260nw-1075946798.jpg");
+    /*background-image: url("https://image.shutterstock.com/image-photo/various-asian-meals-on-rustic-260nw-1075946798.jpg");*/
+    background-image: url("./images/indian-food.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 header h1 {
+    margin: 0;
     text-align: center;
-    padding-top: 30%;
-    padding-bottom: 15%;
+    padding-top: 8%;
+    padding-bottom: 75%;
     color: white;
     font-weight: bold;
     font-size: 5em;
