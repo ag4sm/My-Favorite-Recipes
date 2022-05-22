@@ -34,6 +34,20 @@ article {
     margin: 20px auto;
     border-radius: 15px;
     padding-left: 40px;
+    padding-bottom: 20px;
     background-color: white;
     opacity: 0.7;
+}
+
+article h2 {
+    text-align: center;
+
+}
+
+article h2,h3 {
+    padding: 1em;
+}
+
+article li {
+    margin: 0.8em;
 }
