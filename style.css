@@ -6,7 +6,7 @@
 
 html, body {
     font-family: Georgia, Helvetica;
-    background-color: mediumaquamarine;
+    background-color: #7a9c07;
 }
 
 header {
@@ -60,10 +60,12 @@ article li {
 
 article img {
     height: 100px;
+    float: right;
+    margin-right: 30px;
 }
 
 footer {
-    background-color: aquamarine;
+    background-color: #d05824;
 }
 
 h5 {
