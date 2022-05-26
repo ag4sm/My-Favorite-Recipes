@@ -32,7 +32,7 @@ header h1 {
 }
 
 article {
-    width: 30%;
+    width: 40%;
     margin: 20px auto;
     border-radius: 15px;
     padding-left: 40px;
@@ -43,15 +43,23 @@ article {
 
 article h2 {
     text-align: center;
-
 }
 
 article h2,h3 {
     padding: 1em;
 }
 
+article h3 {
+    display: inline-block;
+    margin-right: 100px;
+}
+
 article li {
     margin: 0.8em;
+}
+
+article img {
+    height: 100px;
 }
 
 footer {
